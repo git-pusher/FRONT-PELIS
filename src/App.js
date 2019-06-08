@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import SubirActor from './components/SubirActor';
 import {BrowserRouter as Router, Route, Link} from 'react-router-dom';
